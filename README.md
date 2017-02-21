@@ -1,5 +1,7 @@
 # hellinger-montecarlo
 
+![alt text](http://web.utk.edu/~scolli46/images/uHKat1-apuj18.png "hellinger-mc")
+
 ##Monte Carlo Approximation of a Hellinger Distance between Dirichlet Distributions Using Non-Exchangeable Data
 
 This repository contains the python script and data for the article:
